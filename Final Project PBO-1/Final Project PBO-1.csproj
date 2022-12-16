@@ -116,6 +116,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="imgtetiren.png" />
+    <None Include="Resources\home %282%29.png" />
     <None Include="Resources\tetiren.png" />
     <None Include="Resources\getstart.png" />
     <None Include="Resources\userprofile.png" />
