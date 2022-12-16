@@ -65,7 +65,9 @@
             this.button1.Size = new System.Drawing.Size(200, 62);
             this.button1.TabIndex = 1;
             this.button1.Text = "Lists";
+            this.button1.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // HomePage
             // 
