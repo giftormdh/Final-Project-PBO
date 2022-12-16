@@ -40,5 +40,10 @@ namespace Final_Project_PBO_1
 
             loginpage.Show();
         }
+
+        private void FirstPageExit_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            this.Close();
+        }
     }
 }

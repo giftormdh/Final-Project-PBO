@@ -69,5 +69,15 @@ namespace Final_Project_PBO_1
             this.Hide();
             signup.Show();
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+       
+        }
+
+        private void txtPasswordSignIn_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
